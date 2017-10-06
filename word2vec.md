@@ -27,7 +27,7 @@ The hidden layer is going to be represented by a weight matrix with 10,000 rows 
 ![](https://github.com/yinzhaoyang/machine_learning/blob/master/word2vec_hidden.png)
 ![](https://github.com/yinzhaoyang/machine_learning/blob/master/word2vec_output.png)
 
-**参考：**
+**参考：**<br/>
 word2vec-resources<br/>
 http://mccormickml.com/2016/04/27/word2vec-resources/
 https://www.tensorflow.org/tutorials/word2vec
