@@ -28,14 +28,18 @@ The hidden layer is going to be represented by a weight matrix with 10,000 rows 
 
 参考：
 word2vec-resources
+
 http://mccormickml.com/2016/04/27/word2vec-resources/
 https://www.tensorflow.org/tutorials/word2vec
 
 word2vec tutorial
+
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
-word2vec model  paper：
+word2vec model  paper
+
 http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
 
 word2vec implementation with TF
+
 https://github.com/mchablani/deep-learning/blob/master/embeddings/Skip-Gram_word2vec.ipynb
